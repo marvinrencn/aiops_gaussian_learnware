@@ -1,0 +1,12 @@
+SQLAlchemy
+mysql-connector-python
+flask
+flask_sqlalchemy
+flask_bootstrap>=3.3.7
+
+numpy
+pandas
+sklearn
+pyhdfs
+
+pytest

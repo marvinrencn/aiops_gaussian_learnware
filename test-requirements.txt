@@ -1,0 +1,8 @@
+pytest>=3.0.0
+mock==2.0.0
+coverage>=4.1
+pytest-cov>=2.0
+pytest-randomly>=1.0.0
+pytest-mock==1.2
+pytest-flask
+flake8
